@@ -1,0 +1,9 @@
+# Generated source images and retired variants
+assets/arc-*.png
+assets/arc-hero.webp
+assets/arc-mentorship.webp
+
+# Local tooling files
+.DS_Store
+Thumbs.db
+*.log
